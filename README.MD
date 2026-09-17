@@ -47,7 +47,7 @@ Ikuti namanya. Cari isinya. Lihat apa yang ada di baliknya.
 Kalau kamu menyerah di sini, aku sudah bisa membayangkan apa yang akan terjadi:
 
 > **"Kalau Gabisa Nemu Nanti Diejek Fakhri sama Kaysan Loh"**
----
+<br>
 > **"398 file di luar sana hanya akan menertawakanmu ("Hehe Salah ;)""**
 
 Kamu akan menemukan kalimat itu berkali-kali sepanjang perjalananmu. Anggap saja itu motivasi. Atau ejekan. Terserah kamu memaknainya seperti apa.
