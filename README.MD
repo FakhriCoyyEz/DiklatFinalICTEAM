@@ -19,7 +19,7 @@ Kalau kamu tahu bahasa mesin, kamu akan mengenalinya. Kalau tidak — mungkin su
 Semua fragmen ditulis dalam bahasa yang sama: hanya dua simbol, tanpa spasi, tanpa jeda.
 
 ```
-01010101010100100000101001
+0101001101100101011011100110000101001100011011110111011001100101011100110100110101100001011000100110100101101110
 ```
 
 ---
@@ -47,11 +47,12 @@ Ikuti namanya. Cari isinya. Lihat apa yang ada di baliknya.
 Kalau kamu menyerah di sini, aku sudah bisa membayangkan apa yang akan terjadi:
 
 > **"Kalau Gabisa Nemu Nanti Diejek Fakhri sama Kaysan Loh"**
+---
 > **"398 file di luar sana hanya akan menertawakanmu ("Hehe Salah ;)""**
 
 Kamu akan menemukan kalimat itu berkali-kali sepanjang perjalananmu. Anggap saja itu motivasi. Atau ejekan. Terserah kamu memaknainya seperti apa.
 
-Oh ya, BTW cari link yang dibutuhin diMahaKaryaSuperDasyat, Buat Activate Accountnya di Ada Lovelace yah
+Oh ya, BTW cari link yang dibutuhin diMahaKaryaSuperDasyat, Buat Activate Accountnya di Ada Lovelace yah (Clue Pertama Dari Kadiv)
 
 ---
 
@@ -65,5 +66,5 @@ Oh ya, BTW cari link yang dibutuhin diMahaKaryaSuperDasyat, Buat Activate Accoun
 
 <p align="center"><i>Selamat mencari. Selamat tersesat. Selamat menemukan.</i></p>
 <p align="center">
-  <img src="KomdisKesayangan/MyLove.jpeg" alt="Banner Proyek" width="100%">
+  <img src="KomdisKesayangan/MyLove.jpeg" alt="Banner Proyek TTD awokawokowkoa" width="100%">
 </p>
